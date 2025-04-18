@@ -15,7 +15,7 @@ Welcome to the official GitHub profile of **SoftTech**, a Turkish software compa
 - 👯 We’re looking to collaborate on **innovative projects** and **tech partnerships**.
 - 🤔 Need help with your next tech idea? We’re just a message away.
 - 💬 Ask us about: software development, app architecture, UI/UX design, or startup MVPs.
-- 📫 Reach us: [Here’s our contact page](https://irishsoftwarehouse.pocketsflow.com/turkish)
+- 📫 Reach us: [Buy Mentorship Here ](https://irishsoftwarehouse.pocketsflow.com/turkish)
 - 😄 Pronouns: We / Us
 - ⚡ Fun fact: We blend Turkish innovation with global tech trends—think of us as your bridge to powerful digital solutions.
 
