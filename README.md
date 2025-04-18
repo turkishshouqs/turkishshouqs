@@ -1,16 +1,24 @@
+<p align="center">
+  <a href="https://irishsoftwarehouse.pocketsflow.com/turkish" target="_blank">
+    <img src="https://github.com/ellerbrock/awesome-github-badges/raw/master/hire-me/hire-me.gif" alt="Hire Me" />
+  </a>
+</p>
+
 ## Hi there 👋
 
-<!--
-**turkishshouqs/turkishshouqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub profile of **SoftTech**, a Turkish software company passionate about delivering high-quality digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 We’re currently working on **custom software solutions**, **web platforms**, and **mobile apps** for global clients.
+- 🌱 We’re constantly learning and adapting to the latest in **AI**, **cloud computing**, and **modern frameworks**.
+- 👯 We’re looking to collaborate on **innovative projects** and **tech partnerships**.
+- 🤔 Need help with your next tech idea? We’re just a message away.
+- 💬 Ask us about: software development, app architecture, UI/UX design, or startup MVPs.
+- 📫 Reach us: [Here’s our contact page](https://irishsoftwarehouse.pocketsflow.com/turkish)
+- 😄 Pronouns: We / Us
+- ⚡ Fun fact: We blend Turkish innovation with global tech trends—think of us as your bridge to powerful digital solutions.
+
+---
+
+Thank you for visiting our profile! 🚀
